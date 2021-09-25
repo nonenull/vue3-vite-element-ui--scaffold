@@ -1,0 +1,27 @@
+{
+  "name": "hadouken-test2",
+  "version": "0.0.0",
+  "author": "ChenXiaoShun<316084217@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.wsecar.cn/devops/hadouken-base-web"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11",
+    "@types/node": "^16.9.6",
+    "element-plus": "^1.1.0-beta.15",
+    "less": "^4.1.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "vue": "^3.2.13",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.0",
+    "vite": "^2.5.10"
+  }
+}
